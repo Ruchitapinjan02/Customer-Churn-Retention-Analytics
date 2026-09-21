@@ -237,7 +237,7 @@ Prioritize customers with high churn probability
 
 
 📈 **Power BI Dashboard**
-
+![Power BI Dashboard](dashboard_preview.png)
 
 
 The Power BI dashboard contains five main pages:
